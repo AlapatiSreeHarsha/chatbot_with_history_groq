@@ -9,3 +9,5 @@ faiss-cpu
 torch
 transformers
 PyPDF2
+pypdf
+torch
